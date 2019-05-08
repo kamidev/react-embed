@@ -66,7 +66,7 @@
     "react-dom": "16.8.6",
     "rimraf": "2.6.3",
     "semantic-release": "15.13.12",
-    "storybook-readme": "4.0.5",
+    "storybook-readme": "5.0.3",
     "ts-jest": "24.0.2",
     "ts-loader": "5.4.5",
     "ts-node": "8.1.0",

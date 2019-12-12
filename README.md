@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    react-embed
+    This is a fork of streamich/react-embed
   </h1>
 </div>
 
@@ -28,10 +28,8 @@
   <img src="https://user-images.githubusercontent.com/9773803/53292170-e6fa7b80-37be-11e9-87ab-8b16ab696412.png">
 </div>
 
-
 <br />
 <br />
-
 
 <div align="center">
   <h2>
@@ -40,10 +38,8 @@
   <pre>import Embed from 'react-embed';</pre>
 </div>
 
-
 <br />
 <br />
-
 
 <div align="center">
   <h2>

@@ -3,11 +3,11 @@
   "version": "2.7.1",
   "description": "",
   "author": {
-    "name": "streamich",
-    "url": "https://github.com/streamich"
+    "name": "kamidev",
+    "url": "https://github.com/kamidev"
   },
-  "homepage": "https://github.com/streamich/react-embed",
-  "repository": "streamich/react-embed",
+  "homepage": "https://github.com/kamidev/react-embed",
+  "repository": "kamidev/react-embed",
   "main": "lib/index.js",
   "module": "esm/index.js",
   "files": [
